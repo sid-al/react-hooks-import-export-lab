@@ -1,4 +1,5 @@
 import React from "react";
+import { username, city } from "/src/data/user.js";
 
 function Home() {
   return (
